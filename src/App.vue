@@ -25,4 +25,15 @@ export default {
 </script>
 
 <style>
+.skew {
+    transform: skewY(-4deg);
+    transform-origin: top left;
+}
+.unskew {
+    transform: skewY(4deg);
+}
+
+.subheader {
+    @apply text-base text-lg tracking-widest uppercase mb-2
+}
 </style>
