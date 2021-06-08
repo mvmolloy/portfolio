@@ -1,21 +1,21 @@
 <template>
     <section id="about" class="px-10 lg:px-20 -mt-40 pt-48 pb-20 lg:pb-40 bg-seafoam-50">
         <div class="grid lg:grid-cols-2 lg:gap-28 -mt-40">
-            <div class="mt-52 -px-10 lg:hidden mx-auto">
+            <div class="mt-52 xl:mt-68 -px-10 lg:hidden mx-auto">
                 <img class="my-auto block" src="../assets/img/about/portfolio.png">
             </div>
-            <div class="mt-5 lg:mt-48 mb-10 lg:mb-0 my-auto text-center lg:text-left">
+            <div class="mt-5 lg:mt-48 3xl:mt-60 mb-10 lg:mb-0 my-auto text-center lg:text-left">
                 <h2 class="subheader text-seafoam-500">About Me<span class="punc">.</span></h2>
                 <p class="">I am a full-stack software developer, currently working across a range of applications used by government departments and public sector partners to facilitate their learning and development programmes.</p>
                 <a href="#projects" class="cta-btn">View Projects</a>
             </div>
-            <div class="mt-10 lg:mt-52 -px-10 hidden lg:block">
+            <div class="mt-10 lg:mt-52 3xl:mt-60 -px-10 hidden lg:flex justify-end">
                 <img class="my-auto block" src="../assets/img/about/portfolio.png">
             </div>
-            <div class="mt-10 -px-10 mx-auto">
+            <div class="mt-10 -px-10 lg:-ml-10 3xl:-ml-20 mx-auto w-full">
                 <img src="../assets/img/about/diploma.png">
             </div>
-             <div class=" mb-10 mb-20 lg:mb-0 my-auto text-center lg:text-left">
+             <div class="lg:mt-14 3xl:mt-20 mb-10 mb-20 lg:mb-0 my-auto text-center lg:text-left h-full">
                 <h2 class="subheader text-seafoam-500 mt-5 lg:mt-0">Learn<span class="punc">.</span> Work<span class="punc">.</span> Play<span class="punc">.</span></h2>
                 <p>I have recieved a <span class="text-seafoam-500">Diploma in Full-Stack Software Development</span> with the <span class="text-seafoam-500">Code Institute (Dublin)</span> and <span class="text-seafoam-500">CertHE in Computing (Software)</span> with the <span class="text-seafoam-500">Open University</span>. I also have an MA from the University of Nottingham.</p>
                 <a href="https://www.credential.net/18fd5235-39c3-45ab-a706-f11c0888cd48" target="__blank" class="cta-btn">View Diploma</a>
