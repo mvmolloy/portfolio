@@ -1,7 +1,7 @@
 <template>
     <section id="projects" class="px-10 lg:pl-20 relative skew bg-white">
         <div class="pt-28 unskew">
-            <div class="pb-10 project text-center lg:mb-28 grid md:grid-cols-2 xl:grid-cols-3 gap-16">
+            <div class="pb-10 project text-center lg:mb-28 grid md:grid-cols-2 lg:grid-cols-3 gap-16">
                 <div v-for="project in projects.slice(0, 9)" :key="project.name" class="hidden lg:block mb-10">
                     <div class="w-full">
                         <img :src="require('@/assets/img/gif/' + project.imgSrc)" alt="GIF animation of project" class="w-full my-5 mx-auto px-10 md:px-5">
