@@ -39,4 +39,8 @@ export default {
 .subheader {
     @apply text-base text-lg tracking-widest uppercase mb-2
 }
+
+.punc {
+    @apply text-emerald-300 text-2xl font-normal
+}
 </style>
