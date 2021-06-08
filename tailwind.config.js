@@ -7,6 +7,10 @@ module.exports = {
         height: {
             'vh80': '80vh',
         },
+        screens: {
+            'xs': '400px',
+            '3xl': '1600px',
+        },
         colors: {
             emerald: colors.emerald,
             seafoam: {
