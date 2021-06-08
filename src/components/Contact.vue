@@ -27,7 +27,7 @@ export default {
 
 <style scoped>
 .social-link {
-    @apply text-seafoam-300 hover:text-emerald-400 inline pr-3 opacity-80
+    @apply text-seafoam-300 hover:text-emerald-400 inline pr-3 opacity-90
 }
 
 geo-globe {
