@@ -6,7 +6,7 @@
                     <canvas id="canvas"></canvas>
                 </div>
             </div>
-            <div class="text-center -mt-40 xs:mt-0">
+            <div class="text-center xs:mt-0">
                 <div id="social-icons__wrapper" class="mb-4 text-3xl 3xl:text-4xl 2xl:mt-5">
                     <a href="https://www.linkedin.com/in/mvmolloy/" target="__blank" class="social-link"><i class="fab fa-linkedin"></i></a>
                     <a href="https://github.com/mvmolloy" target="__blank" class="social-link"><i class="fab fa-github-square"></i></a>
