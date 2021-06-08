@@ -64,4 +64,7 @@ p {
 #logos img:hover {
   filter: brightness(0.2) invert(0.4);
 }
+.leading-relaxed {
+    line-height: 1.625;
+}
 </style>

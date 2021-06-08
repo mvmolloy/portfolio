@@ -101,4 +101,7 @@ import projects from "../assets/json/projects.json"
 .link-btn {
     @apply text-seafoam-400 text-xs border p-2 px-4 rounded-full border-seafoam-400 hover:bg-seafoam-400 hover:text-white
 }
+.leading-relaxed {
+    line-height: 1.625;
+}
 </style>
