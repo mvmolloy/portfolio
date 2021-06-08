@@ -56,7 +56,7 @@ p {
     @apply text-gray-400 tracking-widest text-xl sm:text-2xl mb-1 mb-5 leading-relaxed font-light
 }
 .cta-btn {
-    @apply text-seafoam-400 text-xs tracking-wider font-semibold uppercase border p-2 px-4 rounded-full border-seafoam-400 hover:bg-seafoam-400 hover:text-white
+    @apply text-seafoam-400 text-xs tracking-wider font-semibold uppercase border p-2 px-4 rounded-full border-seafoam-400 hover:bg-seafoam-400 hover:text-white -ml-1
 }
 #logos img {
   filter: brightness(0) invert(0.8);
