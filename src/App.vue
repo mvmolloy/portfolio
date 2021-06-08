@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    <Nav />
     <Header />
     <About />
     <Projects />
@@ -8,6 +9,7 @@
 </template>
 
 <script>
+import Nav from './components/Nav.vue'
 import Header from './components/Header.vue'
 import About from './components/About.vue'
 import Projects from './components/Projects.vue'
@@ -16,6 +18,7 @@ import Contact from './components/Contact.vue'
 export default {
   name: 'App',
   components: {
+    Nav,
     Header,
     About,
     Projects,
