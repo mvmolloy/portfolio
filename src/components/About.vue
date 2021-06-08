@@ -21,6 +21,26 @@
                 <a href="https://www.credential.net/18fd5235-39c3-45ab-a706-f11c0888cd48" target="__blank" class="cta-btn">View Diploma</a>
             </div>
         </div>
+        <div id="logos" class="hidden md:grid grid-cols-3 lg:grid-cols-6 lg:mt-36 lg:mb-10 gap-14 xl:gap-2">
+            <div class="sm:mx-auto">
+                <img src="../assets/img/about/vu.png" alt="Vrije Universetiet Amsterdam Logo" class="h-16">       
+            </div>
+            <div class="sm:mx-auto">
+                <img src="../assets/img/about/ci.png" alt="Code Institute Logo" class="h-14 pt-1">
+            </div>
+            <div class="sm:mx-auto">
+                <img src="../assets/img/about/uon.png" alt="University of Nottingham Logo" class="h-14">
+            </div>
+            <div class="w-full sm:mx-auto">
+                <img src="../assets/img/about/pp.png" alt="Premier Parnterhsip Logo" class="h-14 pb-1 lg:pl-8">
+            </div>
+            <div class="sm:mx-auto">
+                <img src="../assets/img/about/ukc.png" alt="University of Kent Logo" class="h-14">
+            </div>
+            <div class="mx-auto">
+                <img src="../assets/img/about/ou.png" alt="Open University Logo" class="h-16">
+            </div>
+        </div>
     </section>
 </template>
 
@@ -34,5 +54,11 @@ export default {
 <style scoped>
 .cta-btn {
     @apply text-seafoam-400 text-xs tracking-wider font-semibold uppercase border p-2 px-4 rounded-full border-seafoam-400 hover:bg-seafoam-400 hover:text-white
+}
+#logos img {
+  filter: brightness(0) invert(0.8);
+}
+#logos img:hover {
+  filter: brightness(0.2) invert(0.4);
 }
 </style>
