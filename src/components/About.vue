@@ -16,7 +16,7 @@
                 <img src="../assets/img/about/diploma.png">
             </div>
              <div class="mb-10 mb-20 lg:mb-0 my-auto text-center lg:text-left">
-                <h2 class="subheader text-seafoam-500">Learn<span class="punc">.</span> Work<span class="punc">.</span> Play<span class="punc">.</span></h2>
+                <h2 class="subheader text-seafoam-500 mt-5 lg:mt-0">Learn<span class="punc">.</span> Work<span class="punc">.</span> Play<span class="punc">.</span></h2>
                 <h1 class="text-gray-400 tracking-widest text-xl sm:text-2xl 3xl:text-3xl mb-1 mb-5 leading-relaxed font-thin">I have recieved a <span class="text-seafoam-500">Diploma in Full-Stack Software Development</span> with the <span class="text-seafoam-500">Code Institute (Dublin)</span> and <span class="text-seafoam-500">CertHE in Computing (Software)</span> with the <span class="text-seafoam-500">Open University</span>. I also have an MA from the University of Nottingham.</h1>
                 <a href="https://www.credential.net/18fd5235-39c3-45ab-a706-f11c0888cd48" target="__blank" class="cta-btn">View Diploma</a>
             </div>
