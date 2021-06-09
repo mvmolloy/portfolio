@@ -2,7 +2,7 @@
     <section id="contact" class="px-10 lg:px-20 pb-5 mt-10 lg:mt-0 bg-seafoam-50">
      <div class="grid md:grid-cols-1">
             <div class="mx-auto block lg:-mt-52 p-4">
-                <div id="geo-globe" class="pt-10">
+                <div id="geo-globe" class="pt-36 xs:pt-10">
                     <canvas id="canvas"></canvas>
                 </div>
             </div>
