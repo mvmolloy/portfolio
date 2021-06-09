@@ -54,7 +54,7 @@
                 </div>
                 <div v-for="project in projects.slice(0, 4)" :key="project.name" class="md:hidden mb-10">
                     <div class="w-full">
-                        <img :src="require('@/assets/img/gif/' + project.imgSrc)" alt="GIF animation of project" class="w-full my-5 mx-auto px-10 md:px-5">
+                        <img :src="require('@/assets/img/gif/' + project.imgSrc)" alt="GIF animation of project" class="w-full my-5 mx-auto px-1 md:px-5">
                     </div>
                     <h2 class="subheader text-seafoam-400">{{project.name}}</h2>
                     <div class="mt-5 text-xs lg:px-5">
