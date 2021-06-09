@@ -1,7 +1,7 @@
 [
     {
         "name": "tráta",
-        "imgSrc": "trata.gif",
+        "imgSrc": "trata.mp4",
         "demo": false,
         "repo": "https://github.com/mvmolloy/trata/",
         "description": "Applies and tracks pomodoro time management across individual projects.",
@@ -10,7 +10,7 @@
     },
     {
         "name": "Keep On Rolling",
-        "imgSrc": "kor.gif",
+        "imgSrc": "kor.mp4",
         "demo": "https://korcbd.herokuapp.com/",
         "repo": "https://github.com/mvmolloy/korcbd/",
         "description": "E-commerce store for a CBD product start-up, taking payments using Stripe.",
@@ -19,7 +19,7 @@
     },
     {
         "name": "Covid Response Tracker",
-        "imgSrc": "cgrt.gif",
+        "imgSrc": "cgrt.mp4",
         "demo": "https://mvmolloy.github.io/global-covid-response/",
         "repo": "https://github.com/mvmolloy/global-covid-response/",
         "description": "Track and filter Covid-19 responses, restrictions and statistics across the world.",
@@ -28,7 +28,7 @@
     },
     {
         "name": "ADC Ireland",
-        "imgSrc": "adc.gif",
+        "imgSrc": "adc.mp4",
         "demo": "https://eukalytics.github.io/adc-ireland/",
         "repo": "https://github.com/eukalytics/adc-ireland/",
         "description": "Portfolio site for an Irish architectual design company.",
@@ -37,7 +37,7 @@
     },
     {
         "name": "Abius",
-        "imgSrc": "abius.gif",
+        "imgSrc": "abius.mp4",
         "demo": false,
         "repo": "https://github.com/mvmolloy/abius/",
         "description": "Bug reporting & management system with urgency levels.",
@@ -46,7 +46,7 @@
     },
     {
         "name": "Cairngorms Outdoors",
-        "imgSrc": "co.gif",
+        "imgSrc": "co.mp4",
         "demo": "https://mvmolloy.github.io/milestone-project-2/",
         "repo": "https://github.com/mvmolloy/milestone-project-2",
         "description": "Porfolio site with 3D maps and weather reporting.",
@@ -55,7 +55,7 @@
     },
     {
         "name": "Savings Tracker",
-        "imgSrc": "track.gif",
+        "imgSrc": "track.mp4",
         "demo": "https://track-savings-app.herokuapp.com/",
         "repo": "https://github.com/mvmolloy/flask-track/",
         "description": "Savings tracker providing statistical feedback on savings.",
@@ -64,7 +64,7 @@
     },
     {
         "name": "Advent Calender",
-        "imgSrc": "advent.gif",
+        "imgSrc": "advent.mp4",
         "demo": "https://mvmolloy.github.io/adventcalendar/",
         "repo": "https://github.com/mvmolloy/adventcalendar/",
         "description": "Interactive Christmas advent calendar using jQuery.",
@@ -73,7 +73,7 @@
     },
     {
         "name": "To-Do App",
-        "imgSrc": "task.gif",
+        "imgSrc": "task.mp4",
         "demo": "https://task-django.herokuapp.com/",
         "repo": "https://github.com/mvmolloy/task-django/",
         "description": "To-Do list app with twelve colour scheme options.",

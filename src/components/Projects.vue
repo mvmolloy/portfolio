@@ -2,9 +2,11 @@
     <section id="projects" class="px-10 lg:pl-20 relative skew bg-white">
         <div class="pt-28 unskew">
             <div class="pb-10 project text-center lg:mb-28 grid md:grid-cols-2 lg:grid-cols-3 gap-16">
-                <div v-for="project in projects.slice(0, 9)" :key="project.name" class="hidden lg:block mb-10">
-                    <div class="w-full">
-                        <img :src="require('@/assets/img/gif/' + project.imgSrc)" alt="GIF animation of project" class="w-full my-5 mx-auto px-10 md:px-5">
+                <div v-for="project in projects.slice(0, 9)" :key="'lg-' + project.name" class="hidden lg:block mb-10">
+                    <div class="w-full mb-5">
+                        <video autoplay loop muted playsinline>
+                            <source :src="require('@/assets/img/mp4/' + project.imgSrc)" type="video/mp4">
+                        </video>
                     </div>
                     <h2 class="subheader text-seafoam-400">{{project.name}}</h2>
                     <div class="mt-5 text-xs lg:px-5">
@@ -27,9 +29,11 @@
                         </div>
                     </div>
                 </div>
-                <div v-for="project in projects.slice(0, 6)" :key="project.name" class="hidden md:block lg:hidden mb-10">
-                    <div class="w-full">
-                        <img :src="require('@/assets/img/gif/' + project.imgSrc)" alt="GIF animation of project" class="w-full my-5 mx-auto px-10 md:px-5">
+                <div v-for="project in projects.slice(0, 6)" :key="'md-' + project.name" class="hidden md:block lg:hidden mb-10">
+                    <div class="w-full mb-5">
+                        <video autoplay loop muted playsinline>
+                            <source :src="require('@/assets/img/mp4/' + project.imgSrc)" type="video/mp4">
+                        </video>
                     </div>
                     <h2 class="subheader text-seafoam-400">{{project.name}}</h2>
                     <div class="mt-5 text-xs lg:px-5">
@@ -52,9 +56,11 @@
                         </div>
                     </div>
                 </div>
-                <div v-for="project in projects.slice(0, 4)" :key="project.name" class="md:hidden mb-10">
-                    <div class="w-full">
-                        <img :src="require('@/assets/img/gif/' + project.imgSrc)" alt="GIF animation of project" class="w-full my-5 mx-auto px-1 md:px-5">
+                <div v-for="project in projects.slice(0, 5)" :key="'sm-' + project.name" class="md:hidden mb-5">
+                     <div class="w-full mb-5">
+                        <video autoplay loop muted playsinline>
+                            <source :src="require('@/assets/img/mp4/' + project.imgSrc)" type="video/mp4">
+                        </video>
                     </div>
                     <h2 class="subheader text-seafoam-400">{{project.name}}</h2>
                     <div class="mt-5 text-xs lg:px-5">
