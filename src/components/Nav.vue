@@ -2,7 +2,7 @@
     <nav class="bg-none z-10 text-4xl fixed top w-full px-5 lg:px-14 py-5 md:pb-0 text-tertiary font-inter" :class="{'nav-scrolled' : docScrolled, 'sm-nav-active' : smNavActive}">
         <div class="grid grid-cols-2">
             <div class="w-50 text-left flex">
-                <a href="/" class="inline">
+                <a href="" class="inline">
                     <img src="../assets/img/nav/logo.png" id="nav-logo" class="h-14 p-1 rounded" alt="Portfolio Logo">
                 </a>
             </div>
