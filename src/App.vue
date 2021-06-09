@@ -28,9 +28,14 @@ export default {
 </script>
 
 <style>
+html {
+  scroll-behavior: smooth;
+}
+
 #app {
     @apply bg-seafoam-50
 }
+
 .skew {
     transform: skewY(-4deg);
     transform-origin: top left;
