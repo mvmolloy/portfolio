@@ -12,8 +12,8 @@
             <div class="mt-10 lg:mt-52 3xl:mt-60 -px-10 hidden lg:flex justify-end">
                 <img class="my-auto block" src="../assets/img/about/portfolio.png">
             </div>
-            <div class="mt-10 -px-10 lg:-ml-10 3xl:-ml-20 mx-auto w-full">
-                <img src="../assets/img/about/diploma.png">
+            <div class="mt-10 lg:-ml-10 3xl:-ml-20 mx-auto">
+                <img src="../assets/img/about/diploma.png" class="px-38">
             </div>
              <div class="lg:mt-14 3xl:mt-20 mb-10 mb-20 lg:mb-0 my-auto text-center lg:text-left h-full">
                 <h2 class="subheader text-seafoam-500 mt-5 lg:mt-0">Learn<span class="punc">.</span> Work<span class="punc">.</span> Play<span class="punc">.</span></h2>
