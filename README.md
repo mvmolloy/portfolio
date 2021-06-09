@@ -1,5 +1,9 @@
 # portfolio
 
+This is my portfolio site. I built it using Vue.js and Tailwind CSS.
+
+I can be viewed [here](https://mvmolloy.github.io/portfolio/).
+
 ## Project setup
 ```
 npm install
