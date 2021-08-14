@@ -8,7 +8,7 @@
             </div>
             <div class="text-center md:mt-10 lg:mt-5">
                 <div id="social-icons__wrapper" class="mb-4 text-3xl 3xl:text-4xl 2xl:mt-5">
-                    <a href="https://www.linkedin.com/in/mvmolloy/" target="__blank" class="social-link"><i class="fab fa-linkedin"></i></a>
+                    <a href="https://www.linkedin.com/in/mvmegan/" target="__blank" class="social-link"><i class="fab fa-linkedin"></i></a>
                     <a href="https://github.com/mvmolloy" target="__blank" class="social-link"><i class="fab fa-github-square"></i></a>
                     <a href="mailto:mvamolloy@gmail.com" target="__blank" class="social-link"><i class="fas fa-envelope-square"></i></a>
                     <a href="https://codepen.io/eukalytics" target="__blank" class="social-link"><i class="fab fa-codepen"></i></a>
